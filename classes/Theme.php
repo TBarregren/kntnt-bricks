@@ -24,8 +24,7 @@ final class Theme extends AbstractTheme {
 	}
 
 	/**
-	 * Provides the filter `kntnt-bricks-breakpoints` for altering
-	 * the breakpoints.
+	 * Provides the filter `kntnt-bricks-breakpoints` for altering the breakpoints.
 	 *
 	 * @see get_breakpoints()
 	 */
