@@ -1,2 +1,3 @@
-# kntnt-bricks
-WordPress child theme for Bricks Builder.
+# Kntnt child theme for Bricks Builder
+
+This is a work in progress…
